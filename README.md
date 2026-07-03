@@ -114,10 +114,8 @@ Daikibo-Telemetry-Dashboard/
 * Manufacturing Data Analysis
 * Data Storytelling
 *KPI visualization
-
-⭐ If you found this project interesting, feel free to star the repository.
 👩‍💻 Author
 Syed Gulshan
-B.Tech (Artificial Intelligence & Data Science)
+
 LinkedIn: https://www.linkedin.com/in/syed-gulshan-490a66390
 
